@@ -6,7 +6,7 @@ public class CountProblem {
     public static void main(String[] args) {
         int count =0;
         int ans ;
-        int[] arr = {21,32,12,14,15};
+        int[] arr = {12,3,14,56,77,13,13};
 
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter a number ");
